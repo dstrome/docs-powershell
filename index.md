@@ -3,7 +3,7 @@ layout: HubPage
 hide_bc: true
 brand: powershell
 ms.author: apexprodleads
-ms.date: 08-08-2017
+ms.date: 12-05-2018
 ms.topic: hub-page
 title: PowerShell Documentation
 ---
@@ -137,7 +137,7 @@ title: PowerShell Documentation
                     <a href="#features">Features</a>
                     <ul id="features" class="cardsC">
                         <li>
-                            <a href="/en-us/powershell/scripting/getting-started/fundamental/understanding-important-windows-powershell-concepts">
+                            <a href="/powershell/scripting/getting-started/fundamental/understanding-important-windows-powershell-concepts">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
@@ -449,7 +449,7 @@ title: PowerShell Documentation
                             </a>
                         </li>
                         <li>
-                            <a href="http://stackoverflow.com/questions/tagged/powershell">
+                            <a href="https://stackoverflow.com/questions/tagged/powershell">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
@@ -460,7 +460,7 @@ title: PowerShell Documentation
                                         </div>
                                         <div class="cardText">
                                             <h3>StackOverFlow</h3>
-                                            <p>Questions tagged “PowerShell” on StackOverflow.</p>
+                                            <p>Questions tagged "PowerShell" on StackOverflow.</p>
                                         </div>
                                     </div>
                                 </div>
