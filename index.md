@@ -86,7 +86,7 @@ title: PowerShell Documentation
                                         </div>
                                         <div class="cardText">
                                             <h3>PowerShell on GitHub</h3>
-                                            <p>PowerShell is an open-source project and available for Windows, Linux and macOS.</p>
+                                            <p>PowerShell is an open-source project and available for Windows, Linux, and macOS.</p>
                                         </div>
                                     </div>
                                 </div>
