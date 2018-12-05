@@ -327,7 +327,7 @@ title: PowerShell Documentation
                                         </div>
                                         <div class="cardText">
                                             <h3>PowerShell Team on Twitter</h3>
-                                            <p>Join in on the discussion and engage with the PowerShell community on Twitter</p>
+                                            <p>Join in on the discussion and engage with the PowerShell community on Twitter.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -365,7 +365,7 @@ title: PowerShell Documentation
                                         </div>
                                         <div class="cardText">
                                             <h3>GitHub Issues</h3>
-                                            <p>File issues on GitHub for the PowerShell project</p>
+                                            <p>File issues on GitHub for the PowerShell project.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -384,7 +384,7 @@ title: PowerShell Documentation
                                         </div>
                                         <div class="cardText">
                                             <h3>Digital Art</h3>
-                                            <p>Logos, comics, and wallpapers</p>
+                                            <p>Logos, comics, and wallpapers.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -422,7 +422,7 @@ title: PowerShell Documentation
                                         </div>
                                         <div class="cardText">
                                             <h3>TechNet Forums</h3>
-                                            <p>Discuss PowerShell usage on the official Microsoft forums</p>
+                                            <p>Discuss PowerShell usage on the official Microsoft forums.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -460,7 +460,7 @@ title: PowerShell Documentation
                                         </div>
                                         <div class="cardText">
                                             <h3>StackOverFlow</h3>
-                                            <p>Questions tagged “PowerShell” on StackOverflow</p>
+                                            <p>Questions tagged “PowerShell” on StackOverflow.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -479,7 +479,7 @@ title: PowerShell Documentation
                                         </div>
                                         <div class="cardText">
                                             <h3>r/PowerShell</h3>
-                                            <p>Upvote, comment, and submit posts on the PowerShell subreddit</p>
+                                            <p>Upvote, comment, and submit posts on the PowerShell subreddit.</p>
                                         </div>
                                     </div>
                                 </div>
