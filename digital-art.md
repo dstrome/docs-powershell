@@ -23,16 +23,23 @@ To share a link to the comic, you can also use <http://aka.ms/powershellcomic>, 
 - [PowerShell Hero Poster](http://aka.ms/powershellheroposter)
 
 ## PowerShell Hero
-- [PowerShell Hero Image](http://aka.ms/powershellhero) 
+
+- [PowerShell Hero Image](http://aka.ms/powershellhero)
 
 ### Microsoft PowerShell Logo and Digital Art Guidelines
 
-As a general rule, third parties may not use Microsoft logos and artwork without permission.
-The following are the limited circumstances under which third parties may use the Microsoft PowerShell logo and artwork.
+As a general rule, third parties may not use Microsoft logos and artwork without permission. The
+following are the limited circumstances under which third parties may use the Microsoft PowerShell
+logo and artwork.
 
-- For non-commercial purposes (documentation or on a website) that reference your connection with Microsoft PowerShell. 
+- For non-commercial purposes (documentation or on a website) that reference your connection with
+  Microsoft PowerShell.
 
-Any uses outside of these guidelines as determined by Microsoft is strictly prohibited.
-Do not use the Microsoft PowerShell logo or artwork in products, product packaging, or other business services for which a formal license is required.
+Any uses outside of these guidelines as determined by Microsoft is strictly prohibited. Do not use
+the Microsoft PowerShell logo or artwork in products, product packaging, or other business services
+for which a formal license is required.
 
-Microsoft reserves the right in its sole discretion to terminate or modify permission to display the logo or artwork, and may request that third parties modify or delete any use of the logo or artwork that, in Microsoft's sole judgment, does not comply with these guidelines or might otherwise impair Microsoft's rights in the logo. 
+Microsoft reserves the right in its sole discretion to terminate or modify permission to display
+the logo or artwork, and may request that third parties modify or delete any use of the logo or
+artwork that, in Microsoft's sole judgment, does not comply with these guidelines or might
+otherwise impair Microsoft's rights in the logo.

@@ -3,7 +3,7 @@ layout: HubPage
 hide_bc: true
 brand: powershell
 ms.author: apexprodleads
-ms.date: 08-08-2017
+ms.date: 12-05-2018
 ms.topic: hub-page
 title: PowerShell Documentation
 ---
@@ -86,7 +86,7 @@ title: PowerShell Documentation
                                         </div>
                                         <div class="cardText">
                                             <h3>PowerShell on GitHub</h3>
-                                            <p>PowerShell is an open-source project and available for Windows, Linux and macOS.</p>
+                                            <p>PowerShell is an open-source project and available for Windows, Linux, and macOS.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -124,7 +124,7 @@ title: PowerShell Documentation
                                         </div>
                                         <div class="cardText">
                                             <h3>PowerShell in Azure Cloud Shell</h3>
-                                            <p>PowerShell in Azure Cloud Shell is now availlable in public preview. Learn more!</p>
+                                            <p>PowerShell in Azure Cloud Shell is now available in public preview. Learn more!</p>
                                         </div>
                                     </div>
                                 </div>
@@ -137,7 +137,7 @@ title: PowerShell Documentation
                     <a href="#features">Features</a>
                     <ul id="features" class="cardsC">
                         <li>
-                            <a href="/en-us/powershell/scripting/getting-started/fundamental/understanding-important-windows-powershell-concepts">
+                            <a href="/powershell/scripting/getting-started/fundamental/understanding-important-windows-powershell-concepts">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
@@ -327,7 +327,7 @@ title: PowerShell Documentation
                                         </div>
                                         <div class="cardText">
                                             <h3>PowerShell Team on Twitter</h3>
-                                            <p>Join in on the discussion and engage with the PowerShell community on Twitter</p>
+                                            <p>Join in on the discussion and engage with the PowerShell community on Twitter.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -365,7 +365,7 @@ title: PowerShell Documentation
                                         </div>
                                         <div class="cardText">
                                             <h3>GitHub Issues</h3>
-                                            <p>File issues on GitHub for the PowerShell project</p>
+                                            <p>File issues on GitHub for the PowerShell project.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -384,7 +384,7 @@ title: PowerShell Documentation
                                         </div>
                                         <div class="cardText">
                                             <h3>Digital Art</h3>
-                                            <p>Logos, comics, and wallpapers</p>
+                                            <p>Logos, comics, and wallpapers.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -422,7 +422,7 @@ title: PowerShell Documentation
                                         </div>
                                         <div class="cardText">
                                             <h3>TechNet Forums</h3>
-                                            <p>Discuss PowerShell usage on the official Microsoft forums</p>
+                                            <p>Discuss PowerShell usage on the official Microsoft forums.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -449,7 +449,7 @@ title: PowerShell Documentation
                             </a>
                         </li>
                         <li>
-                            <a href="http://stackoverflow.com/questions/tagged/powershell">
+                            <a href="https://stackoverflow.com/questions/tagged/powershell">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
@@ -460,7 +460,7 @@ title: PowerShell Documentation
                                         </div>
                                         <div class="cardText">
                                             <h3>StackOverFlow</h3>
-                                            <p>Questions tagged “PowerShell” on StackOverflow</p>
+                                            <p>Questions tagged "PowerShell" on StackOverflow.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -479,7 +479,7 @@ title: PowerShell Documentation
                                         </div>
                                         <div class="cardText">
                                             <h3>r/PowerShell</h3>
-                                            <p>Upvote, comment, and submit posts on the PowerShell subreddit</p>
+                                            <p>Upvote, comment, and submit posts on the PowerShell subreddit.</p>
                                         </div>
                                     </div>
                                 </div>
