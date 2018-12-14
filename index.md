@@ -28,7 +28,7 @@ title: PowerShell Documentation
                                             </div>
                                         </div>
                                         <div class="cardText">
-                                            <h3>Get started with Windows PowerShell</h3>
+                                            <h3>Get started with PowerShell</h3>
                                             <p>Learn how to use PowerShell.</p>
                                         </div>
                                     </div>
