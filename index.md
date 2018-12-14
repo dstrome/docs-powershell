@@ -18,7 +18,7 @@ title: PowerShell Documentation
                     <a data-default="true" href="#getstarted">Get Started</a>
                     <ul id="getstarted" class="cardsC">
                         <li>
-                            <a href="/powershell/scripting/powershell-scripting">
+                            <a href="/powershell/scripting/overview">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
@@ -37,7 +37,7 @@ title: PowerShell Documentation
                             </a>
                         </li>
                         <li>
-                            <a href="/powershell/scripting/setup/installing-powershell">
+                            <a href="/powershell/scripting/install/installing-powershell">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
@@ -56,7 +56,7 @@ title: PowerShell Documentation
                             </a>
                         </li>
                         <li>
-                            <a href="/powershell/scripting/getting-started/fundamental/sample-scripts-for-administration">
+                            <a href="/powershell/scripting/samples/sample-scripts-for-administration">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
@@ -137,7 +137,7 @@ title: PowerShell Documentation
                     <a href="#features">Features</a>
                     <ul id="features" class="cardsC">
                         <li>
-                            <a href="/powershell/scripting/getting-started/fundamental/understanding-important-windows-powershell-concepts">
+                            <a href="/powershell/scripting/learn/understanding-important-windows-powershell-concepts">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
@@ -272,7 +272,7 @@ title: PowerShell Documentation
                     </ul>
                 </li>
                 <li>
-                    <a href="/powershell/scripting">Reference</a>
+                    <a href="/powershell/scripting/overview">Reference</a>
                 </li>
                 <li>
                     <a href="#community">Community</a>
